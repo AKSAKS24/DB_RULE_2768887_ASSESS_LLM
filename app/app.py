@@ -92,7 +92,6 @@ Your tasks:
    - Scan ABAP code in this unit for SELECTs on VBRK/VBRP without DRAFT filter.
    - Add `DRAFT = SPACE` in WHERE clauses where missing.
    - Preserve functional logic, ECC/S4-safe syntax.
-   - Output strictly in JSON with: original_code, remediated_code, changes[].
 
 Return ONLY strict JSON:
 {{
